@@ -73,6 +73,7 @@ This Privacy Policy describes how Giveaway ("we", "us", "our") collects, uses, s
 | Last active timestamp | Account activity tracking | Indefinite |
 | API request metrics | Performance monitoring and rate limiting | 90 days |
 | Daily activity counts | Aggregate usage statistics | 90 days |
+| Sponsor interaction events (campaign ID, placement, event type) | Measuring sponsor campaign performance | 365 days |
 
 **Event Logging:**
 
@@ -87,7 +88,7 @@ This Privacy Policy describes how Giveaway ("we", "us", "our") collects, uses, s
 - We do not collect payment or financial information
 - We do not access your device contacts, calendar, or files beyond photos you explicitly select for listings
 - We do not track your real-time location (area selection is manual)
-- We do not use advertising trackers or sell data to advertisers
+- We do not sell your personal information to advertisers. Our sponsor system records anonymized impression and click events (campaign ID, placement, timestamp) to measure sponsor performance. These events are not linked to your personal profile or shared with third parties.
 
 ---
 
@@ -201,7 +202,7 @@ These providers process data on our behalf and are bound by their respective pri
 ### 5.2 What We Do NOT Share
 
 - We do not sell your personal information to third parties
-- We do not share your data with advertisers
+- We do not share your personal information (email, username, messages) with sponsors or advertisers. Sponsors receive only aggregate, anonymized performance metrics (total impressions, clicks, and click-through rates) for their campaigns.
 - We do not provide your email address to other users (your username is your public identifier)
 - We do not share your precise location coordinates with other users (only the area-level location and any location text you voluntarily include in listings)
 
@@ -273,7 +274,7 @@ Area-wide notifications (e.g., new items posted) are sent in batches of up to 10
 
 ## 7. Cookies and Tracking
 
-The App does not use cookies or web-based tracking technologies. Authentication is handled via JWT tokens stored securely on your device using platform-native secure storage (iOS Keychain / Android Keystore via Expo SecureStore).
+The mobile App does not use cookies. Authentication is handled via JWT tokens stored securely on your device using platform-native secure storage (iOS Keychain / Android Keystore via Expo SecureStore). The web-based administration interface uses httpOnly session cookies for administrator authentication only; these are not used for tracking.
 
 ---
 

@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **GrabFree App**
-**Last Updated: March 2, 2026**
+**Last Updated: March 3, 2026**
 
 This Privacy Policy describes how GrabFree ("we", "us", "our") collects, uses, stores, and protects your personal information when you use the GrabFree mobile application ("App").
 

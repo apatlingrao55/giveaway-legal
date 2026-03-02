@@ -1,7 +1,7 @@
 # Terms of Use
 
 **GrabFree App**
-**Last Updated: March 2, 2026**
+**Last Updated: March 3, 2026**
 
 Please read these Terms of Use ("Terms") carefully before using the GrabFree mobile application ("App") operated by GrabFree ("we", "us", "our"). By accessing or using the App, you agree to be bound by these Terms.
 
@@ -463,7 +463,7 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 
 ## 25. Entire Agreement
 
-These Terms, together with the Privacy Policy, constitute the entire agreement between you and GrabFree regarding your use of the App and supersede all prior agreements, understandings, and communications, whether written or oral.
+These Terms, together with the [Privacy Policy](PRIVACY_POLICY.md) and [Acceptable Use Policy](AUP.md), constitute the entire agreement between you and GrabFree regarding your use of the App and supersede all prior agreements, understandings, and communications, whether written or oral.
 
 ## 26. No Waiver
 

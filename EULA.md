@@ -1,7 +1,7 @@
 # End User License Agreement (EULA)
 
 **GrabFree App**
-**Last Updated: March 2, 2026**
+**Last Updated: March 3, 2026**
 
 This End User License Agreement ("Agreement") is a legally binding contract between you ("User", "you", "your") and GrabFree ("Licensor", "we", "us", "our") governing your use of the GrabFree mobile application ("App"). This Agreement supplements our [Terms of Use](TERMS_OF_USE.md) and [Privacy Policy](PRIVACY_POLICY.md).
 
